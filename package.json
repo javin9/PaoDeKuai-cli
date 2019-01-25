@@ -1,0 +1,22 @@
+{
+  "name": "paodekuai-cli",
+  "version": "0.1.0",
+  "description": "efficient and painless scaffold for frontend  project ",
+  "bin": {
+    "pao": "./bin/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "liujianwei <liujianwei1213@163.com> (http://github.com/IIcupid)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "download-git-repo": "^1.1.0",
+    "inquirer": "^6.2.1",
+    "ora": "^3.0.0"
+  }
+}
