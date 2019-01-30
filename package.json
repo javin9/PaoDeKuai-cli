@@ -9,8 +9,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcupid/PaoDeKuai-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rcupid/PaoDeKuai-cli/issues"
+  },
   "keywords": [],
-  "author": "liujianwei <liujianwei1213@163.com> (http://github.com/IIcupid)",
+  "author": "liujianwei <liujianwei1213@163.com> (http://github.com/rcupid)",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",
