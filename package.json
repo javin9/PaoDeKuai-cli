@@ -1,6 +1,6 @@
 {
   "name": "paodekuai-cli",
-  "version": "0.1.1",
+  "version": "1.0.2",
   "description": "efficient and painless scaffold for frontend  project ",
   "bin": {
     "pao": "./bin/index.js"
